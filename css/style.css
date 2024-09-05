@@ -136,6 +136,12 @@ p {
   color: #97CCF0;
 }
 
+.separator {
+	border-bottom: 1px solid lightgray;
+	margin-bottom: 3%;
+}
+
+
 @-webkit-keyframes reset {
 	0% {
 		opacity: 0;
